@@ -1,0 +1,34 @@
+{
+  "title": "MeloLingua CEFR-Graded Multilingual Stories Dataset",
+  "description": "A public educational corpus of 118 A1-B2 graded stories in German, Spanish, French, Italian, Korean, and Russian, with aligned English translations, contextual vocabulary, comprehension questions, sentence-building exercises, teaching metadata, canonical lesson links, and provenance.",
+  "creators": [
+    {
+      "name": "MeloLingua"
+    }
+  ],
+  "license": "cc-by-nc-4.0",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "version": "1.0.0",
+  "keywords": [
+    "graded readers",
+    "language learning",
+    "CEFR",
+    "parallel text",
+    "multilingual dataset",
+    "reading comprehension",
+    "educational technology"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://melolingua.com",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/MeloLingua/melolingua-language-stories-dataset",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    }
+  ]
+}

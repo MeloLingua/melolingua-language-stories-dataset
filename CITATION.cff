@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+title: "MeloLingua CEFR-Graded Multilingual Stories Dataset"
+type: dataset
+authors:
+  - name: "MeloLingua"
+version: 1.0.0
+date-released: 2026-08-27
+license: CC-BY-NC-4.0
+repository-code: "https://github.com/MeloLingua/melolingua-language-stories-dataset"
+url: "https://melolingua.com"
+abstract: >-
+  A public educational corpus of 118 A1-B2 graded stories in German, Spanish,
+  French, Italian, Korean, and Russian, with sentence-aligned English
+  translations, contextual vocabulary, comprehension questions,
+  sentence-building exercises, teaching metadata, and source provenance.
+keywords:
+  - graded readers
+  - language learning
+  - multilingual dataset
+  - CEFR
+  - parallel text
+  - reading comprehension
+  - educational technology
+  - natural language processing

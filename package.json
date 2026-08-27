@@ -1,0 +1,22 @@
+{
+  "name": "melolingua-language-stories-dataset",
+  "version": "1.0.0",
+  "description": "118 public A1-B2 graded stories in German, Spanish, French, Italian, Korean, and Russian with aligned English translations.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-csv.mjs",
+    "validate": "node scripts/validate.mjs",
+    "guard": "node scripts/guard-public-boundary.mjs",
+    "check": "npm run validate && npm run guard && node scripts/check-generated.mjs"
+  },
+  "repository": "https://github.com/MeloLingua/melolingua-language-stories-dataset",
+  "homepage": "https://melolingua.com",
+  "keywords": [
+    "language-learning",
+    "graded-readers",
+    "cefr",
+    "multilingual-dataset",
+    "parallel-text"
+  ],
+  "license": "MIT"
+}

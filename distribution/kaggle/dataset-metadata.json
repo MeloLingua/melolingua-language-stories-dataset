@@ -1,0 +1,42 @@
+{
+  "title": "MeloLingua CEFR-Graded Multilingual Stories",
+  "subtitle": "118 A1-B2 stories in six languages with aligned English learning support",
+  "description": "A citable educational corpus of 118 public graded stories in German, Spanish, French, Italian, Korean, and Russian. Includes sentence-aligned English translations, contextual vocabulary, comprehension questions, sentence-building exercises, teaching metadata, provenance, and canonical links to https://melolingua.com.",
+  "id": "ismaelfi/melolingua-cefr-graded-multilingual-stories",
+  "licenses": [
+    {
+      "name": "CC-BY-NC-4.0"
+    }
+  ],
+  "keywords": [
+    "education",
+    "language learning",
+    "nlp",
+    "linguistics",
+    "translation",
+    "reading comprehension",
+    "cefr"
+  ],
+  "resources": [
+    {
+      "path": "stories.csv",
+      "description": "One row per public graded story with nested learning fields serialized as JSON."
+    },
+    {
+      "path": "sentences.csv",
+      "description": "One row per aligned target-language and English sentence pair."
+    },
+    {
+      "path": "vocabulary.csv",
+      "description": "One row per vocabulary item with source-story context."
+    },
+    {
+      "path": "questions.csv",
+      "description": "One row per multiple-choice comprehension question."
+    },
+    {
+      "path": "stories.json",
+      "description": "Canonical nested dataset with all educational and provenance fields."
+    }
+  ]
+}
