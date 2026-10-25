@@ -5,10 +5,18 @@ type: dataset
 authors:
   - name: "MeloLingua"
 version: 1.0.0
+doi: 10.5281/zenodo.22142993
 date-released: 2026-08-27
 license: CC-BY-NC-4.0
 repository-code: "https://github.com/MeloLingua/melolingua-language-stories-dataset"
 url: "https://melolingua.com"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22142993
+    description: "Zenodo archive of version 1.0.0"
+  - type: url
+    value: "https://huggingface.co/datasets/ismaelfi/melolingua-cefr-graded-multilingual-stories"
+    description: "Hugging Face mirror"
 abstract: >-
   A public educational corpus of 118 A1-B2 graded stories in German, Spanish,
   French, Italian, Korean, and Russian, with sentence-aligned English

@@ -20,7 +20,7 @@ Changes were made.
 
 ## Academic citation
 
-Use the repository's `CITATION.cff` metadata or the BibTeX example in the README. Include the version or commit hash you used. Add the DOI after a Zenodo archive is available.
+Use the repository's `CITATION.cff` metadata or the BibTeX example in the README. Include the version or commit hash you used. Version 1.0.0 is archived on Zenodo: https://doi.org/10.5281/zenodo.22142993
 
 ## Individual stories
 

@@ -24,12 +24,12 @@
 - [x] Source, methodology, limits, provenance, license, and attribution are explicit
 - [x] Repository links to https://melolingua.com
 - [x] `CITATION.cff`, `.zenodo.json`, dataset cards, and changelog use version 1.0.0
-- [ ] Zenodo DOI added after archival
+- [x] Zenodo DOI added after archival
 
 ## Distribution
 
 - [x] GitHub repository public
 - [ ] Hugging Face dataset uploaded and viewer verified
-- [ ] Zenodo archive and DOI verified
+- [x] Zenodo archive and DOI verified
 - [ ] Kaggle dataset uploaded with correct license
 - [ ] Educator-directory listings submitted

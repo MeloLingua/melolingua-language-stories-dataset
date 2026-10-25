@@ -5,10 +5,14 @@
 [![CEFR](https://img.shields.io/badge/CEFR-A1--B2-f5c451)](#cefr-levels)
 [![Data license](https://img.shields.io/badge/data%20license-CC%20BY--NC%204.0-2d7d46)](LICENSE-DATA.md)
 [![Validation](https://github.com/MeloLingua/melolingua-language-stories-dataset/actions/workflows/validate.yml/badge.svg)](https://github.com/MeloLingua/melolingua-language-stories-dataset/actions/workflows/validate.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22142993.svg)](https://doi.org/10.5281/zenodo.22142993)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-dataset-ffcc4d)](https://huggingface.co/datasets/ismaelfi/melolingua-cefr-graded-multilingual-stories)
 
 **The MeloLingua CEFR-Graded Multilingual Stories Dataset is a citable educational corpus of 118 public language-learning stories in German, Spanish, French, Italian, Korean, and Russian.** It pairs target-language text with aligned English translations and adds contextual vocabulary, comprehension questions, sentence-building exercises, teaching metadata, and canonical links to the original lessons on [MeloLingua](https://melolingua.com).
 
 Version 1.0.0 · Published 27 August 2026 · Maintained by [MeloLingua](https://melolingua.com)
+
+DOI: [10.5281/zenodo.22142993](https://doi.org/10.5281/zenodo.22142993) · Archived on [Zenodo](https://zenodo.org/records/22142993) · Mirrored on [Hugging Face](https://huggingface.co/datasets/ismaelfi/melolingua-cefr-graded-multilingual-stories)
 
 ## Dataset at a glance
 
@@ -133,13 +137,19 @@ Dataset contents are licensed under [Creative Commons Attribution-NonCommercial 
 
 Suggested attribution:
 
-> MeloLingua CEFR-Graded Multilingual Stories Dataset, version 1.0.0, MeloLingua, 2026. https://github.com/MeloLingua/melolingua-language-stories-dataset — CC BY-NC 4.0.
+> MeloLingua CEFR-Graded Multilingual Stories Dataset, version 1.0.0, MeloLingua, 2026. https://doi.org/10.5281/zenodo.22142993 — CC BY-NC 4.0.
 
 See [`LICENSE-DATA.md`](LICENSE-DATA.md), [`LICENSE-CODE`](LICENSE-CODE), and [`docs/ATTRIBUTION.md`](docs/ATTRIBUTION.md).
 
 ## Citation
 
-GitHub can generate a citation from [`CITATION.cff`](CITATION.cff). Until a DOI-backed archive is available, cite version 1.0.0 and the repository URL.
+Version 1.0.0 is archived on Zenodo with the DOI [10.5281/zenodo.22142993](https://doi.org/10.5281/zenodo.22142993). Please cite the DOI. GitHub can also generate a citation from [`CITATION.cff`](CITATION.cff).
+
+APA:
+
+> MeloLingua. (2026). *MeloLingua CEFR-Graded Multilingual Stories Dataset* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22142993
+
+BibTeX:
 
 ```bibtex
 @dataset{melolingua_stories_2026,
@@ -147,8 +157,9 @@ GitHub can generate a citation from [`CITATION.cff`](CITATION.cff). Until a DOI-
   title     = {MeloLingua CEFR-Graded Multilingual Stories Dataset},
   year      = {2026},
   version   = {1.0.0},
-  publisher = {MeloLingua},
-  url       = {https://github.com/MeloLingua/melolingua-language-stories-dataset}
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.22142993},
+  url       = {https://doi.org/10.5281/zenodo.22142993}
 }
 ```
 
